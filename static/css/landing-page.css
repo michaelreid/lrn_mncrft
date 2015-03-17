@@ -25,6 +25,13 @@ h6 {
     font-size: 14px; 
 }
 
+
+.navbar-small {
+    font-size: 10px;
+    font-style:italic;
+}
+
+
 .lead {
     font-size: 18px;
     font-weight: 400;

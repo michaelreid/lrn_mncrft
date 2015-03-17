@@ -53,7 +53,7 @@
                         <a href="/">Home</a>
                     </li>
                     <li>
-                        <a href="about">Contact</a>
+                        <a href="#">Contact</a>
                     </li>
                     <li>
                         <a href="http://bit.ly/1wTcv3X">Register</a>
@@ -74,15 +74,12 @@
                 <div class="col-lg-12">
                     <div class="intro-message">
                         <h1>Learn Programming through Minecraft</h1>
-                        <h3>This school holidays learn programming with the fun of Minecraft.</h3>
-			<h3>A fun, immersive experience for 10-14 year olds interested in code.</h3>
+                        <h3>is brought to you by the team at Majoran.</h3>
+			<h3>Majoran is Adelaide's tech & creative coworking community.</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                             <li>
-                                <a href="http://bit.ly/1wTcv3X" class="btn btn-default btn-lg"><span class="network-name">Register Now</span></a>
-                            </li>
-                            <li>
-                                <a href="#workshop-details" class="btn btn-default btn-lg"><span class="network-name">Learn More...</span></a>
+                                <p class=""><span class="network-name">Have questions?<br>Email us at hello@majoran.co</span></p>
                             </li>
                         </ul>
                     </div>
@@ -97,7 +94,7 @@
 
     <!-- Page Content -->
 
-	<a  name="workshop-details"></a>
+	<a  name="services"></a>
     <div class="content-section-a">
 
         <div class="container">
@@ -105,12 +102,11 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Learn to program and have a world of fun!<br>We'll be using Andy Hunt's clear and simple guide.</h2>
-                    <p class="lead">We will be using this very clear and very helpful guide written by Andy Hunt as we work through the process of building up our own servers and our own Mods.<br>Plain Simple Fun!</p>
+                    <h2 class="section-heading">Majoran is home to Adelaide's tech & creative freelancer and startup communities.</h2>
+                    <p class="lead">We provide support and space for people who work on their own, and who are starting new and creative things with technology. The <a href="http://majoran.co" target="_blank">Majoran community</a> want to share the fun of technology with more kids because we have our own.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-		  <!-- TODO: compress bookcover image -->
-                    <img class="img-responsive" src="../static/img/bookcover.jpg" alt="">
+                    <img class="img-responsive" src="../static/img/majoran_party_community.jpg" alt="">
                 </div>
             </div>
 
@@ -128,11 +124,11 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Over 3 days we'll cover the basics of programming.<br>And spend plenty of time playing our own custom worlds!</h2>
-                    <p class="lead">During the 3 days we will cover the basics of setting up a server and of the Java programming language. We won't rush through it, but we'll also have plenty of time to play on each other's servers. <a href="http://bit.ly/1wTcv3X">Come and join us!</a></p>
+                    <h2 class="section-heading">Majoran loves creating and sharing code with the world.</h2>
+                    <p class="lead"><a href="http://majoran.co" target="_blank">Majoran coworkers</a> have kids ourselves and we want to see them learn technology in a fun and safe environment. That's why we're opening the experience up to others. We look forward to seeing you there.</p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="../static/img/code.png" alt="">
+                    <img class="img-responsive" src="../static/img/majoran_banh_mi_community.JPG" alt="">
                 </div>
             </div>
 
@@ -151,9 +147,8 @@
                 <div class="col-lg-12">
                     <div class="register-header">
                         <h1>Register Your Place Now!</h1>
-
 	 <hr class="intro-divider">
-                        <ul class="list-inline intro-social-buttons">
+                        <ul class="list-inline intro-socinal-buttons">
                             <li>
                                 <a href="http://bit.ly/1wTcv3X" class="btn btn-default btn-lg"><span class="network-name">Register Now</span></a>
                             </li>
@@ -168,7 +163,6 @@
     </div>
     <!-- /.register -->
 
-
     <!-- Footer -->
     <footer>
         <div class="container">
@@ -176,15 +170,14 @@
                 <div class="col-lg-12">
                     <ul class="list-inline">
                         <li>
-                            <p>Have questions? Email us at hello@majoran.co</p>
+                           <p>Still have questions? Email us at hello@majoran.co</p>
                         </li>
                     </ul>
-                    <p class="copyright text-muted small">Minecraft and all associated IP belongs to Mojang, Microsoft (and the internet).<br>Microsoft have not endorsed or sponsored any of these activities.<br>Notch may or may not actually be joining us at this event.<br>(Most likely not but you never know!)</p>
+                    <p class="copyright text-muted small">Minecraft and all associated IP belongs to Mojang, Microsoft (and the internet).<br>Microsoft have not endorsed or sponsored any of these activities.<br>Notch may or may not actually be joining us at this event<br>(Most likely not but you never know!)</p>
                 </div>
             </div>
         </div>
     </footer>
-    
 </body>
 
 </html>
