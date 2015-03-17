@@ -29,4 +29,4 @@ def about():
 
 # define __main__ function so can call from command line
 if __name__ == '__main__':
-    app.run(debug=True, host="0.0.0.0", port=8085)
+    app.run(debug=True, host="0.0.0.0", port=8082)
